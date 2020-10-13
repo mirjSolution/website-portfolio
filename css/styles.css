@@ -128,6 +128,10 @@ button:focus,
   text-align: center;
 }
 
+.page-body__item ul {
+  padding: 0;
+}
+
 /* index.html profile styles  */
 .profile {
   height: 700px;
